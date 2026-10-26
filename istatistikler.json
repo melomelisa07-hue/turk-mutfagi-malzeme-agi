@@ -1,0 +1,54 @@
+{
+  "tarif_sayisi_ham": 174975,
+  "ikiparcali_tarif_dugumu": 174419,
+  "ikiparcali_malzeme_dugumu": 1000,
+  "ikiparcali_kenar": 1369795,
+  "projeksiyon_dugum": 999,
+  "projeksiyon_kenar": 22804,
+  "yogunluk": 0.0457,
+  "bilesen_sayisi": 1,
+  "en_buyuk_bilesen_dugum": 999,
+  "min_agirlik_esigi": 20,
+  "ilk_10_malzeme": [
+    [
+      "tuz",
+      81755
+    ],
+    [
+      "yumurta",
+      58445
+    ],
+    [
+      "sıvı yağ",
+      53680
+    ],
+    [
+      "un",
+      48443
+    ],
+    [
+      "su",
+      46317
+    ],
+    [
+      "süt",
+      45329
+    ],
+    [
+      "soğan",
+      39023
+    ],
+    [
+      "kabartma tozu",
+      34014
+    ],
+    [
+      "şeker",
+      33636
+    ],
+    [
+      "karabiber",
+      33126
+    ]
+  ]
+}
