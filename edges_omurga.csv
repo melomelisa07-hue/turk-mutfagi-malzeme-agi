@@ -1,0 +1,1930 @@
+source,target,weight
+acı biber,sarımsak,198
+acı biber,tuz,196
+sarımsak,biber salçası,3375
+sarımsak,domates,7240
+sarımsak,havuç,3819
+sarımsak,kapya biber,1962
+sarımsak,karabiber,12145
+sarımsak,kaya tuzu,476
+sarımsak,kekik,4428
+sarımsak,kimyon,4239
+sarımsak,kırmızı biber,1956
+sarımsak,limon suyu,1828
+sarımsak,maydanoz,5227
+sarımsak,patates,4826
+sarımsak,patlıcan,2909
+sarımsak,pul biber,4769
+sarımsak,salatalık,623
+sarımsak,salça,7997
+sarımsak,arpacık soğan,461
+sarımsak,bezelye,467
+sarımsak,biber,977
+sarımsak,biberiye,468
+sarımsak,brokoli,371
+sarımsak,bulgur,906
+sarımsak,ceviz,779
+sarımsak,ceviz içi,477
+sarımsak,dana kıyma,525
+sarımsak,defne yaprağı,696
+sarımsak,dereotu,1812
+sarımsak,domates püresi,267
+sarımsak,domates rendesi,311
+sarımsak,elma sirkesi,326
+sarımsak,fesleğen,735
+sarımsak,galeta unu,1178
+sarımsak,hardal,328
+sarımsak,isot,348
+sarımsak,kabak,1644
+sarımsak,karnabahar,464
+sarımsak,kaynar su,324
+sarımsak,kaşar peyniri,1413
+sarımsak,kereviz,412
+sarımsak,kişniş,259
+sarımsak,krema,849
+sarımsak,köri,525
+sarımsak,kırmızı kapya biber,585
+sarımsak,kırmızı pul biber,731
+sarımsak,kırmızı soğan,345
+sarımsak,kırmızı toz biber,2020
+sarımsak,kıyma,2979
+sarımsak,limon,1522
+sarımsak,limon tuzu,398
+sarımsak,limonun suyu,917
+sarımsak,makarna,448
+sarımsak,mantar,1078
+sarımsak,mayonez,1604
+sarımsak,mısır,929
+sarımsak,nane,3127
+sarımsak,nar ekşisi,1134
+sarımsak,nohut,973
+sarımsak,parmesan peyniri,260
+sarımsak,pirinç,1202
+sarımsak,pulbiber,1460
+sarımsak,semizotu,202
+sarımsak,sirke,1209
+sarımsak,sivri biber,1136
+sarımsak,soya sosu,478
+sarımsak,soğan,14097
+sarımsak,su,7412
+sarımsak,sumak,551
+sarımsak,süt,1923
+sarımsak,süzme yoğurt,1380
+sarımsak,sıvı yağ,7145
+sarımsak,sıvıyağ,467
+sarımsak,sızma zeytinyağı,178
+sarımsak,tahin,563
+sarımsak,tavuk göğsü,1143
+sarımsak,tavuk suyu,378
+sarımsak,tereyağı,6053
+sarımsak,toz biber,549
+sarımsak,toz kırmızı biber,1126
+sarımsak,tuz,21665
+sarımsak,tuz karabiber,268
+sarımsak,un,3920
+sarımsak,yeşil biber,2889
+sarımsak,yoğurt,4783
+sarımsak,yumurta,3552
+sarımsak,zencefil,280
+sarımsak,zerdeçal,466
+sarımsak,zeytin yağı,586
+sarımsak,zeytinyağ,1055
+sarımsak,zeytinyağı,10002
+sarımsak,çarliston biber,424
+sarımsak,çeri domates,251
+sarımsak,üzüm sirkesi,387
+sarımsak,şeker,1933
+tuz,biber salçası,6002
+tuz,domates,13413
+tuz,havuç,7900
+tuz,kapya biber,3575
+tuz,karabiber,29180
+tuz,kekik,8162
+tuz,kimyon,7684
+tuz,kırmızı biber,4098
+tuz,limon suyu,4325
+tuz,maydanoz,13547
+tuz,patates,11959
+tuz,patlıcan,3974
+tuz,pul biber,11089
+tuz,salatalık,1574
+tuz,salça,16422
+tuz,sirke,3721
+tuz,soğan,31440
+tuz,su,24873
+tuz,sıvı yağ,28052
+tuz,tereyağı,18775
+tuz,acı sos,138
+tuz,alabildiği un,633
+tuz,arpa şehriye,764
+tuz,arpacık soğan,658
+tuz,avokado,316
+tuz,ayçiçek yağı,1220
+tuz,ayçiçeği yağı,498
+tuz,baharat,167
+tuz,bal,740
+tuz,baldo pirinç,255
+tuz,balzamik sirke,154
+tuz,bayat ekmek,305
+tuz,bağ dereotu,188
+tuz,bağ maydanoz,500
+tuz,bağ ıspanak,217
+tuz,beyaz lahana,228
+tuz,beyaz peynir,2460
+tuz,bezelye,1222
+tuz,biber,2057
+tuz,biberiye,652
+tuz,bir dereotu,230
+tuz,bir maydanoz,728
+tuz,brokoli,701
+tuz,bulgur,2447
+tuz,buçuk su,246
+tuz,buğday,266
+tuz,börülce,177
+tuz,ceviz,1559
+tuz,ceviz içi,952
+tuz,cheddar peyniri,215
+tuz,cherry domates,325
+tuz,dana eti,234
+tuz,dana kıyma,1078
+tuz,defne yaprağı,838
+tuz,dere otu,378
+tuz,dereotu,5201
+tuz,dolmalık biber,312
+tuz,dolmalık fıstık,446
+tuz,domates püresi,409
+tuz,domates rendesi,560
+tuz,domates sosu,403
+tuz,dövülmüş sarımsak,141
+tuz,dış sarımsak,277
+tuz,ekmek,261
+tuz,elma sirkesi,660
+tuz,enginar,353
+tuz,eritilmiş tereyağı,597
+tuz,erişte,413
+tuz,esmer şeker,460
+tuz,et,189
+tuz,et suyu,633
+tuz,fasulye,663
+tuz,fesleğen,1142
+tuz,galeta unu,2452
+tuz,garnitür,335
+tuz,göbek marul,153
+tuz,hamsi,152
+tuz,hardal,698
+tuz,hazır yufka,211
+tuz,ilık su,276
+tuz,instant maya,2857
+tuz,irmik,869
+tuz,isot,467
+tuz,kabak,2937
+tuz,kabartma tozu,7265
+tuz,kapya biberi,136
+tuz,kara biber,470
+tuz,karbonat,1409
+tuz,karnabahar,1015
+tuz,karışık salça,165
+tuz,kavanoz garnitür,197
+tuz,kavrulmuş susam,444
+tuz,kaynamış su,245
+tuz,kaynar su,714
+tuz,kaşar,1229
+tuz,kaşar peynir,697
+tuz,kaşar peyniri,5314
+tuz,kaşar peyniri rendesi,463
+tuz,kaşar rendesi,476
+tuz,kereviz,701
+tuz,kesme şeker,398
+tuz,keten tohumu,160
+tuz,ketçap,606
+tuz,kilo kıyma,434
+tuz,kilo mantar,123
+tuz,kilo un,339
+tuz,kilo ıspanak,387
+tuz,kinoa,126
+tuz,kiraz domates,297
+tuz,kişniş,373
+tuz,kornişon turşu,1370
+tuz,krem peynir,206
+tuz,krema,2052
+tuz,kurusoğan,143
+tuz,kurutulmuş domates,206
+tuz,kuskus,184
+tuz,kuyruk yağı,233
+tuz,kuzu eti,175
+tuz,kuş üzümü,550
+tuz,kuşbaşı dana eti,222
+tuz,kuşbaşı et,718
+tuz,köftelik bulgur,827
+tuz,köri,942
+tuz,kültür mantarı,418
+tuz,kırmızı kapya biber,975
+tuz,kırmızı lahana,149
+tuz,kırmızı mercimek,799
+tuz,kırmızı pancar,180
+tuz,kırmızı pul biber,1726
+tuz,kırmızı soğan,765
+tuz,kırmızı toz biber,3936
+tuz,kırmızıbiber,281
+tuz,kıvırcık,190
+tuz,kıvırcık marul,115
+tuz,kıyma,6770
+tuz,lahana,419
+tuz,lavaş,294
+tuz,limon,3963
+tuz,limon tuzu,373
+tuz,limonun suyu,1889
+tuz,lor peyniri,846
+tuz,mahlep,739
+tuz,makarna,940
+tuz,mantar,2328
+tuz,margarin,2007
+tuz,marul,892
+tuz,maya,3851
+tuz,maydonoz,152
+tuz,mayonez,2598
+tuz,mercimek,276
+tuz,milföy hamuru,264
+tuz,mililitre su,181
+tuz,mor lahana,457
+tuz,mor soğan,194
+tuz,mozzarella peyniri,188
+tuz,muskat cevizi rendesi,194
+tuz,mısır,3090
+tuz,mısır konservesi,106
+tuz,mısır unu,1353
+tuz,nane,7362
+tuz,nar,217
+tuz,nar ekşisi,2750
+tuz,nişasta,1045
+tuz,nohut,2178
+tuz,pancar,376
+tuz,parmesan peyniri,352
+tuz,pastırma,222
+tuz,pazı,227
+tuz,pekmez,1064
+tuz,peynir,1241
+tuz,pilavlık bulgur,581
+tuz,pirinç,4022
+tuz,pulbiber,3704
+tuz,pırasa,1156
+tuz,reyhan,521
+tuz,roka,470
+tuz,salam,277
+tuz,salatalık turşusu,472
+tuz,sap soğan,159
+tuz,sarmısak,137
+tuz,sarımsak rendesi,243
+tuz,sarımsak tozu,498
+tuz,sarımsaklı yoğurt,498
+tuz,semizotu,361
+tuz,sivri biber,2201
+tuz,siyah zeytin,441
+tuz,sosis,433
+tuz,soya sosu,496
+tuz,soğan rendesi,173
+tuz,sucuk,1360
+tuz,sumak,1510
+tuz,susam,3665
+tuz,süt,14627
+tuz,süzme yoğurt,1808
+tuz,sıvı yağı,514
+tuz,sıvıyağ,1482
+tuz,sızma zeytinyağı,317
+tuz,tahin,806
+tuz,tam buğday unu,606
+tuz,tarçın,996
+tuz,tatlı toz biber,142
+tuz,tavuk,391
+tuz,tavuk baget,244
+tuz,tavuk bonfile,114
+tuz,tavuk budu,136
+tuz,tavuk bulyon,212
+tuz,tavuk but,252
+tuz,tavuk göğsü,2511
+tuz,tavuk göğüs,156
+tuz,tavuk göğüs eti,196
+tuz,tavuk göğüsü,149
+tuz,tavuk suyu,801
+tuz,tel şehriye,517
+tuz,tepeleme un,427
+tuz,teremyağ,896
+tuz,ton balığı,196
+tuz,tost ekmeği,176
+tuz,toz biber,1192
+tuz,toz kırmızı biber,2107
+tuz,toz maya,412
+tuz,tulum peyniri,174
+tuz,turp,141
+tuz,un,23427
+tuz,yağ,1120
+tuz,yağlı kıyma,738
+tuz,yaş maya,2534
+tuz,yenibahar,624
+tuz,yeteri su,415
+tuz,yeşil biber,5311
+tuz,yeşil elma,143
+tuz,yeşil mercimek,927
+tuz,yeşil sivri biber,299
+tuz,yeşil soğan,1407
+tuz,yeşil zeytin,286
+tuz,yoğurt,12265
+tuz,yufka,2207
+tuz,yumurta,22444
+tuz,yumurta akı,1365
+tuz,yumurta beyazı,683
+tuz,yumurta sarısı,6320
+tuz,yumurtanın sarısı,451
+tuz,zencefil,343
+tuz,zerdeçal,922
+tuz,zeytin,610
+tuz,zeytin yağ,230
+tuz,zeytin yağı,1360
+tuz,zeytinyağ,2108
+tuz,zeytinyağı,20352
+tuz,zeytinyağı sıvı yağ,214
+tuz,çarliston biber,840
+tuz,çeri domates,542
+tuz,çörek otu,2365
+tuz,çörekotu,421
+tuz,üzüm sirkesi,429
+tuz,ıspanak,1344
+tuz,şehriye,259
+tuz,şeker,14901
+tuz,şişe maden suyu,352
+biber salçası,bulgur,797
+biber salçası,domates,2468
+biber salçası,karabiber,4083
+biber salçası,kekik,991
+biber salçası,kimyon,1960
+biber salçası,kıyma,1310
+biber salçası,maydanoz,2079
+biber salçası,nane,1394
+biber salçası,nar ekşisi,767
+biber salçası,patates,1202
+biber salçası,pirinç,937
+biber salçası,pul biber,1985
+biber salçası,salça,4814
+biber salçası,soğan,5608
+biber salçası,su,3052
+biber salçası,sıvı yağ,2868
+biber salçası,tereyağı,1531
+biber salçası,un,1254
+biber salçası,yeşil biber,1011
+biber salçası,yumurta,1076
+biber salçası,zeytinyağı,2303
+bulgur,karabiber,1329
+bulgur,maydanoz,944
+bulgur,salça,1716
+bulgur,soğan,2211
+bulgur,su,1341
+bulgur,sıvı yağ,1006
+bulgur,tereyağı,728
+bulgur,zeytinyağı,785
+bulgur,nane,785
+domates,biber,1805
+domates,fesleğen,437
+domates,havuç,1088
+domates,kabak,893
+domates,kapya biber,1508
+domates,karabiber,7170
+domates,kaşar peyniri,1655
+domates,kekik,2776
+domates,kimyon,2111
+domates,kırmızı biber,1514
+domates,kırmızı kapya biber,441
+domates,kırmızı toz biber,862
+domates,kıyma,2563
+domates,limon,959
+domates,limon suyu,762
+domates,mantar,696
+domates,marul,508
+domates,maydanoz,3912
+domates,nane,1628
+domates,nar ekşisi,1025
+domates,patates,2573
+domates,patlıcan,2682
+domates,pirinç,905
+domates,pul biber,2962
+domates,pulbiber,960
+domates,salatalık,1012
+domates,salça,6655
+domates,sivri biber,1811
+domates,soğan,10673
+domates,su,4959
+domates,sucuk,693
+domates,sumak,640
+domates,süt,1681
+domates,sıvı yağ,5380
+domates,tereyağı,3146
+domates,un,2264
+domates,yeşil biber,3852
+domates,yumurta,2341
+domates,zeytin yağı,466
+domates,zeytinyağ,537
+domates,zeytinyağı,5155
+domates,çarliston biber,518
+domates,şeker,1694
+karabiber,havuç,3596
+karabiber,kapya biber,1847
+karabiber,arpacık soğan,466
+karabiber,ayçiçek yağı,631
+karabiber,ayçiçeği yağı,311
+karabiber,beyaz peynir,631
+karabiber,bezelye,629
+karabiber,biber,978
+karabiber,biberiye,475
+karabiber,bir maydanoz,359
+karabiber,cheddar peyniri,173
+karabiber,cherry domates,184
+karabiber,dana kıyma,825
+karabiber,defne yaprağı,686
+karabiber,dereotu,1921
+karabiber,dolmalık fıstık,347
+karabiber,domates püresi,275
+karabiber,domates rendesi,343
+karabiber,et suyu,412
+karabiber,fesleğen,673
+karabiber,galeta unu,1760
+karabiber,hardal,459
+karabiber,kabak,1633
+karabiber,karnabahar,537
+karabiber,kaynar su,356
+karabiber,kaşar,502
+karabiber,kaşar peyniri,2869
+karabiber,kekik,5599
+karabiber,ketçap,298
+karabiber,kimyon,6666
+karabiber,kişniş,259
+karabiber,krema,1165
+karabiber,kuş üzümü,433
+karabiber,köftelik bulgur,579
+karabiber,köri,714
+karabiber,kültür mantarı,305
+karabiber,kırmızı biber,2179
+karabiber,kırmızı kapya biber,554
+karabiber,kırmızı pul biber,1179
+karabiber,kırmızı soğan,426
+karabiber,kırmızı toz biber,2840
+karabiber,kırmızıbiber,224
+karabiber,kıyma,4799
+karabiber,limon,1418
+karabiber,limon suyu,1601
+karabiber,limonun suyu,841
+karabiber,makarna,462
+karabiber,mantar,1440
+karabiber,marul,361
+karabiber,maydanoz,6945
+karabiber,mayonez,747
+karabiber,mısır,664
+karabiber,mısır unu,432
+karabiber,nane,3901
+karabiber,nar ekşisi,1065
+karabiber,nohut,985
+karabiber,patates,6951
+karabiber,patlıcan,2247
+karabiber,pirinç,2288
+karabiber,pul biber,7682
+karabiber,pulbiber,2714
+karabiber,pırasa,624
+karabiber,reyhan,316
+karabiber,salça,10145
+karabiber,sarımsak tozu,343
+karabiber,sirke,872
+karabiber,sivri biber,1223
+karabiber,soya sosu,398
+karabiber,soğan,19120
+karabiber,su,9651
+karabiber,sumak,741
+karabiber,susam,751
+karabiber,süt,4395
+karabiber,süzme yoğurt,595
+karabiber,sıvı yağ,10258
+karabiber,sıvıyağ,642
+karabiber,tavuk göğsü,1564
+karabiber,tavuk suyu,460
+karabiber,tereyağı,8830
+karabiber,toz biber,793
+karabiber,toz kırmızı biber,1582
+karabiber,un,7413
+karabiber,yağlı kıyma,588
+karabiber,yenibahar,547
+karabiber,yeşil biber,3056
+karabiber,yeşil soğan,566
+karabiber,yoğurt,3567
+karabiber,yufka,1362
+karabiber,yumurta,7875
+karabiber,yumurta sarısı,1503
+karabiber,zerdeçal,672
+karabiber,zeytin yağı,558
+karabiber,zeytinyağ,857
+karabiber,zeytinyağı,10191
+karabiber,çarliston biber,471
+karabiber,ıspanak,691
+karabiber,şeker,2072
+kekik,kapya biber,817
+kekik,biberiye,408
+kekik,fesleğen,434
+kekik,kaşar peyniri,1327
+kekik,kimyon,2113
+kekik,köri,409
+kekik,kırmızı biber,873
+kekik,kırmızı toz biber,1094
+kekik,mantar,721
+kekik,maydanoz,1314
+kekik,nane,1040
+kekik,patates,2175
+kekik,pul biber,2640
+kekik,pulbiber,840
+kekik,salça,3209
+kekik,soğan,4040
+kekik,su,2499
+kekik,sucuk,666
+kekik,süt,1331
+kekik,sıvı yağ,3062
+kekik,tavuk göğsü,737
+kekik,tereyağı,2199
+kekik,un,1627
+kekik,yeşil biber,1352
+kekik,yoğurt,1211
+kekik,yumurta,1793
+kekik,zeytinyağı,3591
+kekik,şeker,961
+kimyon,galeta unu,977
+kimyon,kırmızı toz biber,1145
+kimyon,kıyma,1714
+kimyon,maydanoz,2605
+kimyon,nane,1448
+kimyon,nohut,525
+kimyon,patates,1763
+kimyon,pul biber,2747
+kimyon,pulbiber,892
+kimyon,salça,3759
+kimyon,soğan,5978
+kimyon,su,2848
+kimyon,sıvı yağ,3004
+kimyon,tereyağı,1749
+kimyon,toz kırmızı biber,608
+kimyon,un,1574
+kimyon,yumurta,2317
+kimyon,zeytinyağı,2843
+kıyma,maydanoz,2116
+kıyma,patates,1521
+kıyma,patlıcan,1018
+kıyma,pul biber,1726
+kıyma,salça,4002
+kıyma,soğan,6757
+kıyma,su,3243
+kıyma,sıvı yağ,3289
+kıyma,tereyağı,2105
+kıyma,yeşil biber,1086
+kıyma,zeytinyağı,1317
+kıyma,süt,1198
+kıyma,un,2140
+kıyma,yumurta,2526
+kıyma,galeta unu,876
+maydanoz,havuç,1617
+maydanoz,kapya biber,991
+maydanoz,kırmızı biber,1182
+maydanoz,limon suyu,1500
+maydanoz,beyaz peynir,1244
+maydanoz,dereotu,2595
+maydanoz,galeta unu,733
+maydanoz,kabartma tozu,1236
+maydanoz,kaşar peyniri,993
+maydanoz,kornişon turşu,625
+maydanoz,kırmızı pul biber,506
+maydanoz,kırmızı soğan,284
+maydanoz,kırmızı toz biber,801
+maydanoz,limon,1721
+maydanoz,limonun suyu,682
+maydanoz,lor peyniri,411
+maydanoz,marul,471
+maydanoz,mısır,1066
+maydanoz,nane,2498
+maydanoz,nar ekşisi,1625
+maydanoz,patates,2470
+maydanoz,patlıcan,920
+maydanoz,peynir,603
+maydanoz,pirinç,1219
+maydanoz,pul biber,3168
+maydanoz,pulbiber,968
+maydanoz,salatalık,747
+maydanoz,salça,4157
+maydanoz,sivri biber,609
+maydanoz,soğan,8841
+maydanoz,su,4302
+maydanoz,sumak,876
+maydanoz,süt,2288
+maydanoz,sıvı yağ,5704
+maydanoz,tereyağı,2660
+maydanoz,un,3555
+maydanoz,yeşil biber,1210
+maydanoz,yeşil soğan,1109
+maydanoz,yoğurt,2146
+maydanoz,yufka,875
+maydanoz,yumurta,5060
+maydanoz,yumurta sarısı,1051
+maydanoz,zeytin yağı,418
+maydanoz,zeytinyağ,531
+maydanoz,zeytinyağı,5253
+maydanoz,şeker,1577
+nane,limon suyu,729
+nane,patates,1197
+nane,pul biber,2391
+nane,salatalık,563
+nane,salça,3154
+nane,soğan,4697
+nane,su,3210
+nane,sıvı yağ,2616
+nane,tereyağı,2278
+nane,zeytinyağı,2881
+nane,dereotu,1009
+nane,limon,841
+nane,nar ekşisi,892
+nane,nohut,701
+nane,pirinç,1592
+nane,pulbiber,773
+nane,sumak,529
+nane,süzme yoğurt,424
+nane,un,2071
+nane,yoğurt,2024
+nane,yumurta,1698
+nar ekşisi,limon suyu,727
+nar ekşisi,pul biber,713
+nar ekşisi,salatalık,503
+nar ekşisi,salça,1016
+nar ekşisi,soğan,1847
+nar ekşisi,su,642
+nar ekşisi,zeytinyağı,1880
+nar ekşisi,limon,763
+nar ekşisi,sumak,605
+patates,havuç,3929
+patates,kapya biber,869
+patates,kırmızı biber,905
+patates,bezelye,805
+patates,dereotu,850
+patates,galeta unu,744
+patates,kabak,1008
+patates,kaşar peyniri,1473
+patates,kırmızı toz biber,1001
+patates,limon,649
+patates,mayonez,716
+patates,patlıcan,1218
+patates,pul biber,2754
+patates,pulbiber,972
+patates,salça,4227
+patates,soğan,8310
+patates,su,3850
+patates,süt,2194
+patates,sıvı yağ,5400
+patates,tereyağı,3507
+patates,un,3038
+patates,yeşil biber,1445
+patates,yoğurt,2023
+patates,yumurta,3539
+patates,zeytinyağı,3381
+pirinç,havuç,813
+pirinç,pul biber,823
+pirinç,salça,2221
+pirinç,soğan,3451
+pirinç,su,2626
+pirinç,sıvı yağ,1603
+pirinç,tereyağı,1346
+pirinç,zeytinyağı,1535
+pirinç,şeker,1185
+pirinç,kuş üzümü,382
+pirinç,süt,881
+pul biber,havuç,1073
+pul biber,kapya biber,822
+pul biber,kırmızı biber,695
+pul biber,patlıcan,918
+pul biber,kaşar peyniri,889
+pul biber,kırmızı toz biber,841
+pul biber,limon,670
+pul biber,salça,4653
+pul biber,soğan,7506
+pul biber,su,3864
+pul biber,sumak,528
+pul biber,süt,1323
+pul biber,sıvı yağ,5113
+pul biber,tereyağı,2970
+pul biber,un,2684
+pul biber,yeşil biber,1377
+pul biber,yoğurt,2080
+pul biber,yumurta,3249
+pul biber,zeytinyağı,3250
+salça,havuç,1795
+salça,kapya biber,1219
+salça,kırmızı biber,1392
+salça,patlıcan,2090
+salça,biber,1185
+salça,dana kıyma,516
+salça,domates rendesi,363
+salça,galeta unu,785
+salça,isot,352
+salça,kabak,797
+salça,kaynar su,371
+salça,kaşar peyniri,1425
+salça,kuşbaşı et,421
+salça,köftelik bulgur,613
+salça,kırmızı pul biber,512
+salça,kırmızı toz biber,1324
+salça,limon,796
+salça,mantar,669
+salça,nohut,664
+salça,pulbiber,1649
+salça,sivri biber,1065
+salça,soğan,14377
+salça,su,8396
+salça,sucuk,616
+salça,sumak,594
+salça,süt,2059
+salça,sıvı yağ,8346
+salça,sıvıyağ,518
+salça,tavuk göğsü,733
+salça,tereyağı,4533
+salça,toz biber,518
+salça,toz kırmızı biber,613
+salça,un,3566
+salça,yağ,432
+salça,yeşil biber,2701
+salça,yoğurt,2069
+salça,yumurta,3187
+salça,zeytin yağı,454
+salça,zeytinyağ,644
+salça,zeytinyağı,5029
+soğan,havuç,5009
+soğan,kapya biber,2514
+soğan,kırmızı biber,2619
+soğan,limon suyu,1926
+soğan,patlıcan,3174
+soğan,salatalık,686
+soğan,sirke,874
+soğan,ayçiçek yağı,581
+soğan,ayçiçeği yağı,277
+soğan,bağ maydanoz,364
+soğan,bezelye,839
+soğan,biber,1633
+soğan,bir maydanoz,532
+soğan,dana kıyma,1050
+soğan,defne yaprağı,647
+soğan,dereotu,2273
+soğan,dolmalık biber,341
+soğan,dolmalık fıstık,348
+soğan,domates püresi,269
+soğan,domates rendesi,380
+soğan,domates sosu,295
+soğan,dış sarımsak,204
+soğan,enginar,289
+soğan,et suyu,461
+soğan,fasulye,567
+soğan,fesleğen,411
+soğan,galeta unu,1719
+soğan,hardal,284
+soğan,isot,449
+soğan,kabak,1796
+soğan,kara biber,352
+soğan,kaynamış su,192
+soğan,kaynar su,499
+soğan,kaşar peyniri,2190
+soğan,kereviz,423
+soğan,kesme şeker,280
+soğan,kilo kıyma,436
+soğan,kilo ıspanak,354
+soğan,kişniş,245
+soğan,krema,844
+soğan,kuş üzümü,460
+soğan,kuşbaşı et,656
+soğan,köftelik bulgur,726
+soğan,köri,443
+soğan,kırmızı kapya biber,715
+soğan,kırmızı mercimek,853
+soğan,kırmızı pul biber,1004
+soğan,kırmızı toz biber,2407
+soğan,lahana,376
+soğan,limon,2242
+soğan,limonun suyu,989
+soğan,makarna,364
+soğan,mantar,1415
+soğan,marul,483
+soğan,mercimek,303
+soğan,mısır,714
+soğan,nohut,1204
+soğan,pilavlık bulgur,508
+soğan,pulbiber,2433
+soğan,pırasa,512
+soğan,reyhan,428
+soğan,sarımsaklı yoğurt,346
+soğan,sivri biber,1839
+soğan,soya sosu,392
+soğan,su,12764
+soğan,sumak,1194
+soğan,susam,767
+soğan,süt,4178
+soğan,süzme yoğurt,475
+soğan,sıvı yağ,13002
+soğan,sıvıyağ,829
+soğan,tavuk göğsü,1326
+soğan,tavuk suyu,433
+soğan,tereyağı,9060
+soğan,toz biber,791
+soğan,toz kırmızı biber,1237
+soğan,tuz karabiber,408
+soğan,un,7686
+soğan,yağ,609
+soğan,yağlı kıyma,746
+soğan,yenibahar,503
+soğan,yeteri su,248
+soğan,yeteri tuz,241
+soğan,yeşil biber,4492
+soğan,yeşil mercimek,715
+soğan,yeşil soğan,464
+soğan,yoğurt,3550
+soğan,yufka,1636
+soğan,yumurta,7484
+soğan,yumurta sarısı,1641
+soğan,zerdeçal,556
+soğan,zeytin yağı,844
+soğan,zeytinyağ,1174
+soğan,zeytinyağı,11269
+soğan,çarliston biber,631
+soğan,çeri domates,254
+soğan,ıspanak,1008
+soğan,şeker,2910
+su,havuç,2704
+su,kapya biber,1087
+su,kırmızı biber,1139
+su,limon suyu,3746
+su,patlıcan,1382
+su,sirke,1675
+su,alabildiği un,457
+su,antep fıstığı,329
+su,arpa şehriye,426
+su,ayva,422
+su,ayçiçek yağı,593
+su,baklavalık yufka,297
+su,bal,643
+su,beyaz peynir,795
+su,biber,779
+su,bir tuz,279
+su,ceviz,1565
+su,ceviz içi,789
+su,dana kıyma,494
+su,defne yaprağı,368
+su,dereotu,1068
+su,eritilmiş tereyağı,468
+su,fesleğen,325
+su,fiske tuz,334
+su,fındık,591
+su,galeta unu,974
+su,hindistan cevizi,1164
+su,instant maya,2153
+su,irmik,3138
+su,kabak,736
+su,kabartma tozu,6919
+su,kakao,1972
+su,karanfil,781
+su,karbonat,848
+su,kavrulmuş susam,320
+su,kaymak,284
+su,kaşar peyniri,1678
+su,krem şanti,917
+su,krema,1514
+su,köftelik bulgur,496
+su,kırmızı mercimek,569
+su,kırmızı pul biber,497
+su,kırmızı toz biber,1330
+su,labne,398
+su,labne peyniri,395
+su,limon,2873
+su,limon tuzu,584
+su,limonun suyu,1049
+su,mantar,728
+su,margarin,1776
+su,maya,2843
+su,mısır,645
+su,mısır nişastası,726
+su,mısır unu,413
+su,nişasta,3438
+su,nohut,1010
+su,pekmez,1260
+su,peynir,525
+su,pilavlık bulgur,334
+su,portakal,426
+su,pudra şekeri,1774
+su,pulbiber,1269
+su,silme tuz,411
+su,sivri biber,816
+su,sucuk,637
+su,susam,1789
+su,süt,12821
+su,sıvı yağ,16721
+su,sıvı yağı,305
+su,sıvıyağ,614
+su,tahin,611
+su,tam buğday unu,363
+su,tarçın,1728
+su,tavuk göğsü,640
+su,tel şehriye,365
+su,tepeleme un,523
+su,teremyağ,731
+su,tereyağı,11728
+su,toz biber,415
+su,toz kırmızı biber,737
+su,toz maya,303
+su,tozşeker,379
+su,un,18009
+su,vanilin,1274
+su,vanilya,6292
+su,yağ,465
+su,yaş maya,1783
+su,yeşil biber,2002
+su,yeşil mercimek,397
+su,yoğurt,5512
+su,yufka,811
+su,yumurta,14334
+su,yumurta akı,645
+su,yumurta sarısı,4371
+su,yumurtanın sarısı,330
+su,zerdeçal,473
+su,zeytin yağı,409
+su,zeytinyağ,699
+su,zeytinyağı,6664
+su,çilek,553
+su,çörek otu,787
+su,ıspanak,458
+su,şeker,20802
+sıvı yağ,havuç,2953
+sıvı yağ,kapya biber,1487
+sıvı yağ,kırmızı biber,1608
+sıvı yağ,limon suyu,2514
+sıvı yağ,patlıcan,1733
+sıvı yağ,sirke,2983
+sıvı yağ,alabildiği un,854
+sıvı yağ,arpa şehriye,373
+sıvı yağ,baklavalık yufka,335
+sıvı yağ,beyaz peynir,1684
+sıvı yağ,biber,948
+sıvı yağ,bir maydanoz,380
+sıvı yağ,buçuk su,248
+sıvı yağ,buçuk un,593
+sıvı yağ,ceviz,1886
+sıvı yağ,ceviz içi,855
+sıvı yağ,dana kıyma,482
+sıvı yağ,dereotu,1407
+sıvı yağ,dövülmüş ceviz,388
+sıvı yağ,elma,887
+sıvı yağ,eritilmiş tereyağı,380
+sıvı yağ,fındık,643
+sıvı yağ,galeta unu,1426
+sıvı yağ,hazır yufka,239
+sıvı yağ,haşhaş,411
+sıvı yağ,hindistan cevizi,1595
+sıvı yağ,instant maya,1901
+sıvı yağ,irmik,2380
+sıvı yağ,kabak,1071
+sıvı yağ,kabartma tozu,19079
+sıvı yağ,kakao,4901
+sıvı yağ,karbonat,1192
+sıvı yağ,kavrulmuş susam,406
+sıvı yağ,kaynar su,362
+sıvı yağ,kaşar,616
+sıvı yağ,kaşar peyniri,2432
+sıvı yağ,ketçap,310
+sıvı yağ,krem şanti,993
+sıvı yağ,krema,1055
+sıvı yağ,köri,382
+sıvı yağ,kırmızı kapya biber,412
+sıvı yağ,kırmızı toz biber,1599
+sıvı yağ,limon,1835
+sıvı yağ,limon kabuğu rendesi,712
+sıvı yağ,limonun suyu,493
+sıvı yağ,lor peyniri,465
+sıvı yağ,mahlep,633
+sıvı yağ,makarna,378
+sıvı yağ,mantar,896
+sıvı yağ,margarin,3540
+sıvı yağ,maya,2462
+sıvı yağ,mayonez,579
+sıvı yağ,muz,578
+sıvı yağ,mısır,919
+sıvı yağ,mısır nişastası,536
+sıvı yağ,mısır unu,744
+sıvı yağ,nişasta,3658
+sıvı yağ,nohut,590
+sıvı yağ,pekmez,976
+sıvı yağ,peynir,1075
+sıvı yağ,portakal kabuğu rendesi,562
+sıvı yağ,pudra şekeri,5096
+sıvı yağ,pulbiber,1830
+sıvı yağ,pırasa,487
+sıvı yağ,silme tuz,484
+sıvı yağ,sivri biber,956
+sıvı yağ,sucuk,786
+sıvı yağ,susam,3095
+sıvı yağ,süt,17773
+sıvı yağ,sıvı krema,467
+sıvı yağ,tahin,799
+sıvı yağ,tarçın,2241
+sıvı yağ,tavuk göğsü,1113
+sıvı yağ,tepeleme un,449
+sıvı yağ,teremyağ,1011
+sıvı yağ,tereyağ margarin,298
+sıvı yağ,tereyağı,10575
+sıvı yağ,tereyağı margarin,505
+sıvı yağ,toz biber,583
+sıvı yağ,toz kırmızı biber,822
+sıvı yağ,tozşeker,350
+sıvı yağ,un,24109
+sıvı yağ,vanilin,2261
+sıvı yağ,vanilya,11075
+sıvı yağ,yaklaşık un,314
+sıvı yağ,yaş maya,1765
+sıvı yağ,yeşil biber,2661
+sıvı yağ,yeşil soğan,518
+sıvı yağ,yoğurt,9941
+sıvı yağ,yufka,2265
+sıvı yağ,yumurta,26622
+sıvı yağ,yumurta akı,1393
+sıvı yağ,yumurta beyazı,653
+sıvı yağ,yumurta sarısı,5090
+sıvı yağ,zerdeçal,346
+sıvı yağ,zeytinyağı,1352
+sıvı yağ,çikolata,1540
+sıvı yağ,çörek otu,1762
+sıvı yağ,çörekotu,306
+sıvı yağ,üzüm,400
+sıvı yağ,ıspanak,646
+sıvı yağ,şeker,21833
+sıvı yağ,şişe maden suyu,418
+sıvı yağ,şişe soda,245
+tereyağı,havuç,2205
+tereyağı,kapya biber,937
+tereyağı,kırmızı biber,920
+tereyağı,limon suyu,2151
+tereyağı,patlıcan,875
+tereyağı,sirke,1358
+tereyağı,antep fıstığı,340
+tereyağı,arpa şehriye,346
+tereyağı,ayçiçek yağı,464
+tereyağı,badem,299
+tereyağı,baklavalık yufka,389
+tereyağı,bal,652
+tereyağı,beyaz peynir,726
+tereyağı,beyaz çikolata,527
+tereyağı,bir tuz,284
+tereyağı,bitter çikolata,1604
+tereyağı,ceviz,1399
+tereyağı,ceviz içi,777
+tereyağı,defne yaprağı,377
+tereyağı,dereotu,909
+tereyağı,esmer şeker,689
+tereyağı,et suyu,429
+tereyağı,fındık,710
+tereyağı,hindistan cevizi,1178
+tereyağı,irmik,1624
+tereyağı,kabartma tozu,7096
+tereyağı,kadayıf,278
+tereyağı,kakao,2671
+tereyağı,karbonat,803
+tereyağı,kaşar,502
+tereyağı,kaşar peynir,345
+tereyağı,kaşar peyniri,2439
+tereyağı,krem şanti,696
+tereyağı,krema,2647
+tereyağı,kırmızı pul biber,533
+tereyağı,kırmızı toz biber,1304
+tereyağı,labne,434
+tereyağı,labne peyniri,477
+tereyağı,limon,1083
+tereyağı,limonun suyu,554
+tereyağı,makarna,384
+tereyağı,mantar,1050
+tereyağı,maya,766
+tereyağı,muz,546
+tereyağı,mısır nişastası,884
+tereyağı,nişasta,3839
+tereyağı,nohut,728
+tereyağı,pekmez,627
+tereyağı,pudra şekeri,3523
+tereyağı,pulbiber,926
+tereyağı,sivri biber,662
+tereyağı,susam,954
+tereyağı,süt,11645
+tereyağı,sütlü çikolata,498
+tereyağı,süzme yoğurt,504
+tereyağı,sıvı krema,716
+tereyağı,tam buğday unu,339
+tereyağı,tarçın,1868
+tereyağı,tavuk göğsü,845
+tereyağı,tavuk suyu,572
+tereyağı,tel şehriye,313
+tereyağı,tepeleme un,608
+tereyağı,toz kırmızı biber,708
+tereyağı,un,16706
+tereyağı,vanilin,2063
+tereyağı,vanilya,7042
+tereyağı,yeşil biber,1410
+tereyağı,yoğurt,4439
+tereyağı,yufka,773
+tereyağı,yulaflı bisküvi,291
+tereyağı,yumurta,14138
+tereyağı,yumurta akı,569
+tereyağı,yumurta sarısı,4138
+tereyağı,zerdeçal,428
+tereyağı,zeytinyağ,465
+tereyağı,zeytinyağı,4531
+tereyağı,çikolata,1234
+tereyağı,çilek,648
+tereyağı,çimdik tuz,476
+tereyağı,ıspanak,490
+tereyağı,şeker,14223
+un,havuç,2113
+un,kırmızı biber,782
+un,limon suyu,2770
+un,sirke,2526
+un,yeşil biber,1044
+un,zeytinyağı,4098
+un,şeker,31316
+un,süt,23891
+un,antep fıstığı,347
+un,ayçiçek yağı,946
+un,ayçiçeği yağı,331
+un,badem,275
+un,bal,545
+un,beyaz peynir,1393
+un,beyaz çikolata,632
+un,bir tuz,418
+un,bitter çikolata,1945
+un,buçuk su,231
+un,buçuk süt,304
+un,buğday nişastası,680
+un,ceviz,2184
+un,ceviz içi,978
+un,dereotu,1252
+un,dövülmüş ceviz,471
+un,elma,1182
+un,elma sirkesi,260
+un,eritilmiş tereyağı,694
+un,esmer şeker,664
+un,fiske tuz,350
+un,fındık,1016
+un,galeta unu,847
+un,haşhaş,378
+un,hindistan cevizi,2387
+un,ilık su,187
+un,instant maya,2208
+un,irmik,2616
+un,kabak,847
+un,kabartma tozu,21408
+un,kakao,6883
+un,karbonat,1632
+un,karnabahar,434
+un,kavrulmuş susam,396
+un,kaşar,574
+un,kaşar peyniri,2324
+un,krem şanti,1994
+un,krema,2935
+un,kırmızı toz biber,950
+un,labne,615
+un,labne peyniri,680
+un,limon,1294
+un,limon kabuğu rendesi,966
+un,limonun suyu,707
+un,lor peyniri,411
+un,mahlep,602
+un,mantar,695
+un,margarin,4944
+un,margarin tereyağı,396
+un,maya,2954
+un,mililitre su,168
+un,mililitre süt,292
+un,muz,1265
+un,mısır nişastası,1384
+un,mısır unu,540
+un,nişasta,7517
+un,nohut,519
+un,pekmez,1079
+un,peynir,873
+un,portakal kabuğu rendesi,598
+un,portakal suyu,574
+un,pudra şekeri,6893
+un,pulbiber,922
+un,silme tuz,395
+un,sucuk,619
+un,susam,2622
+un,sütlü çikolata,680
+un,sıvı krema,1001
+un,sıvı yağı,358
+un,sıvıyağ,728
+un,tahin,869
+un,tarçın,3092
+un,tavuk göğsü,729
+un,teremyağ,1371
+un,tereyağ margarin,381
+un,tereyağı margarin,681
+un,toz antep fıstığı,254
+un,toz kırmızı biber,536
+un,toz maya,323
+un,tozşeker,566
+un,vanilin,3547
+un,vanilya,17149
+un,vişne,281
+un,yağ,645
+un,yaş maya,2003
+un,yoğurt,8911
+un,yumurta,31854
+un,yumurta akı,1349
+un,yumurta beyazı,628
+un,yumurta sarısı,7194
+un,yumurtanın akı,206
+un,yumurtanın sarısı,526
+un,zerdeçal,341
+un,çikolata,2423
+un,çikolata sosu,541
+un,çilek,1188
+un,çimdik tuz,646
+un,çörek otu,1422
+un,üzüm,494
+un,ıspanak,675
+un,şekerli vanilin,450
+yeşil biber,kapya biber,1366
+yeşil biber,kırmızı biber,1640
+yeşil biber,patlıcan,1195
+yeşil biber,kaşar peyniri,873
+yeşil biber,kırmızı kapya biber,423
+yeşil biber,mantar,561
+yeşil biber,yumurta,1060
+yeşil biber,zeytinyağı,1720
+yumurta,havuç,1970
+yumurta,kapya biber,725
+yumurta,kırmızı biber,835
+yumurta,limon suyu,3081
+yumurta,sirke,2270
+yumurta,zeytinyağı,4397
+yumurta,şeker,29147
+yumurta,süt,22432
+yumurta,kırmızı toz biber,986
+yumurta,alabildiği un,764
+yumurta,antep fıstığı,317
+yumurta,ayçiçek yağı,1021
+yumurta,ayçiçeği yağı,332
+yumurta,badem,283
+yumurta,badem unu,160
+yumurta,bal,948
+yumurta,bayat ekmek,254
+yumurta,beyaz peynir,2078
+yumurta,beyaz çikolata,673
+yumurta,bir maydanoz,332
+yumurta,bir tuz,509
+yumurta,bitter çikolata,2277
+yumurta,buçuk süt,333
+yumurta,buçuk un,711
+yumurta,buğday nişastası,568
+yumurta,ceviz,2365
+yumurta,ceviz içi,1104
+yumurta,dereotu,1635
+yumurta,dövülmüş ceviz,422
+yumurta,elma,1352
+yumurta,eritilmiş tereyağı,810
+yumurta,esmer şeker,803
+yumurta,file badem,261
+yumurta,fiske tuz,482
+yumurta,fındık,1130
+yumurta,galeta unu,2336
+yumurta,hamur kabartma tozu,229
+yumurta,haşhaş,361
+yumurta,hindistan cevizi,2335
+yumurta,hindistan cevizi yağı,219
+yumurta,instant maya,1287
+yumurta,irmik,2950
+yumurta,kabak,1003
+yumurta,kabartma tozu,28452
+yumurta,kakao,8051
+yumurta,karbonat,2307
+yumurta,kaşar,668
+yumurta,kaşar peynir,373
+yumurta,kaşar peyniri,2746
+yumurta,krem peynir,267
+yumurta,krem şanti,1988
+yumurta,krema,2898
+yumurta,kırmızı pul biber,458
+yumurta,labne,803
+yumurta,labne peyniri,777
+yumurta,limon,1397
+yumurta,limon kabuğu,290
+yumurta,limon kabuğu rendesi,1276
+yumurta,limonun kabuğu,278
+yumurta,limonun suyu,719
+yumurta,lor peyniri,655
+yumurta,mahlep,533
+yumurta,margarin,4149
+yumurta,maya,1615
+yumurta,mililitre krema,183
+yumurta,mililitre süt,264
+yumurta,muz,1443
+yumurta,mısır nişastası,1206
+yumurta,mısır unu,811
+yumurta,nişasta,5851
+yumurta,nutella,282
+yumurta,olgun muz,197
+yumurta,pekmez,1001
+yumurta,peynir,1092
+yumurta,portakal kabuğu,209
+yumurta,portakal kabuğu rendesi,845
+yumurta,portakal suyu,649
+yumurta,portakalın kabuğu,176
+yumurta,pudra şekeri,6839
+yumurta,pulbiber,1065
+yumurta,pırasa,513
+yumurta,silme tuz,377
+yumurta,sucuk,849
+yumurta,susam,2514
+yumurta,sütlü çikolata,713
+yumurta,süzme yoğurt,494
+yumurta,sıvı krema,1004
+yumurta,sıvı yağı,410
+yumurta,sıvıyağ,752
+yumurta,tahin,811
+yumurta,tam buğday unu,864
+yumurta,tarçın,3503
+yumurta,tepeleme un,772
+yumurta,teremyağ,1120
+yumurta,tereyağ margarin,330
+yumurta,tereyağı margarin,591
+yumurta,tost ekmeği,180
+yumurta,toz kırmızı biber,549
+yumurta,toz tarçın,212
+yumurta,tozşeker,511
+yumurta,vanilin,4131
+yumurta,vanilya,18278
+yumurta,vanilya şekeri,360
+yumurta,vişne,305
+yumurta,yaklaşık un,283
+yumurta,yağ,716
+yumurta,yaş maya,1228
+yumurta,yoğurt,10089
+yumurta,yufka,1789
+yumurta,yulaf,172
+yumurta,yulaf ezmesi,274
+yumurta,yulaf unu,239
+yumurta,yumurta sarısı,3697
+yumurta,çikolata,2904
+yumurta,çikolata sosu,554
+yumurta,çilek,1112
+yumurta,çimdik tuz,885
+yumurta,çörek otu,1539
+yumurta,üzüm,695
+yumurta,ıspanak,835
+yumurta,şekerli vanilin,529
+yumurta,şişe maden suyu,353
+yumurta,şişe soda,243
+zeytinyağı,havuç,3626
+zeytinyağı,kapya biber,1480
+zeytinyağı,kırmızı biber,1546
+zeytinyağı,limon suyu,2483
+zeytinyağı,patlıcan,1339
+zeytinyağı,salatalık,889
+zeytinyağı,sirke,970
+zeytinyağı,arpacık soğan,356
+zeytinyağı,avokado,236
+zeytinyağı,bal,498
+zeytinyağı,balzamik sirke,159
+zeytinyağı,beyaz peynir,679
+zeytinyağı,bezelye,493
+zeytinyağı,biberiye,514
+zeytinyağı,brokoli,379
+zeytinyağı,ceviz,864
+zeytinyağı,ceviz içi,597
+zeytinyağı,cherry domates,233
+zeytinyağı,defne yaprağı,438
+zeytinyağı,dereotu,2740
+zeytinyağı,elma sirkesi,334
+zeytinyağı,enginar,299
+zeytinyağı,fasulye,329
+zeytinyağı,fesleğen,824
+zeytinyağı,hardal,416
+zeytinyağı,kabak,1379
+zeytinyağı,kabartma tozu,1542
+zeytinyağı,kaşar peyniri,1486
+zeytinyağı,kereviz,394
+zeytinyağı,kesme şeker,236
+zeytinyağı,kiraz domates,248
+zeytinyağı,kornişon turşu,591
+zeytinyağı,krema,696
+zeytinyağı,kurutulmuş domates,180
+zeytinyağı,köri,373
+zeytinyağı,kırmızı kapya biber,411
+zeytinyağı,kırmızı pul biber,842
+zeytinyağı,kırmızı soğan,567
+zeytinyağı,kırmızı toz biber,1530
+zeytinyağı,limon,2202
+zeytinyağı,limonun suyu,1370
+zeytinyağı,lor peyniri,410
+zeytinyağı,mantar,843
+zeytinyağı,marul,403
+zeytinyağı,mayonez,766
+zeytinyağı,mor soğan,143
+zeytinyağı,mısır,1319
+zeytinyağı,nohut,905
+zeytinyağı,pancar,252
+zeytinyağı,parmesan peyniri,260
+zeytinyağı,pulbiber,827
+zeytinyağı,pırasa,489
+zeytinyağı,roka,382
+zeytinyağı,sarımsak tozu,268
+zeytinyağı,semizotu,239
+zeytinyağı,sivri biber,713
+zeytinyağı,siyah zeytin,263
+zeytinyağı,soya sosu,326
+zeytinyağı,sumak,811
+zeytinyağı,susam,752
+zeytinyağı,süt,2626
+zeytinyağı,süzme yoğurt,919
+zeytinyağı,tahin,488
+zeytinyağı,tam buğday unu,508
+zeytinyağı,tavuk göğsü,728
+zeytinyağı,toz kırmızı biber,939
+zeytinyağı,yenibahar,317
+zeytinyağı,yeşil mercimek,403
+zeytinyağı,yeşil soğan,574
+zeytinyağı,yeşil zeytin,194
+zeytinyağı,yoğurt,3114
+zeytinyağı,yumurta sarısı,1020
+zeytinyağı,zerdeçal,455
+zeytinyağı,çeri domates,266
+zeytinyağı,ıspanak,525
+zeytinyağı,şeker,3050
+biber,patlıcan,660
+havuç,bezelye,893
+havuç,brokoli,487
+havuç,dereotu,1246
+havuç,kabak,1165
+havuç,kapya biber,702
+havuç,kereviz,536
+havuç,limon,1001
+havuç,limon suyu,898
+havuç,mayonez,962
+havuç,mısır,868
+havuç,pırasa,681
+havuç,süt,1265
+havuç,yoğurt,1794
+havuç,zeytinyağ,438
+havuç,şeker,1377
+kabak,patlıcan,703
+kabak,dereotu,824
+kaşar peyniri,şeker,933
+kaşar peyniri,süt,2306
+kaşar peyniri,mantar,658
+kaşar peyniri,sucuk,875
+kırmızı biber,mısır,677
+kırmızı toz biber,yoğurt,755
+limon,salatalık,453
+limon,şeker,2473
+limon,kabartma tozu,1079
+limon,vanilya,730
+limon,irmik,682
+limon,dereotu,766
+limon,mısır,613
+limon,portakal,457
+limon,yoğurt,777
+limon suyu,dereotu,774
+limon suyu,irmik,1030
+limon suyu,kabartma tozu,2265
+limon suyu,limon kabuğu rendesi,665
+limon suyu,pudra şekeri,875
+limon suyu,süt,1476
+limon suyu,vanilya,1681
+limon suyu,yoğurt,1501
+limon suyu,şeker,4080
+mantar,süt,597
+pulbiber,yoğurt,716
+sucuk,şeker,598
+süt,sirke,862
+süt,şeker,28932
+süt,alabildiği un,485
+süt,antep fıstığı,385
+süt,ayçiçek yağı,600
+süt,bal,920
+süt,bebe bisküvisi,208
+süt,beyaz peynir,1282
+süt,beyaz çikolata,521
+süt,bisküvi,224
+süt,bitter çikolata,1766
+süt,burçak bisküvi,325
+süt,buçuk un,488
+süt,buğday nişastası,734
+süt,ceviz,1821
+süt,ceviz içi,795
+süt,dövülmüş ceviz,366
+süt,elma,623
+süt,eritilmiş tereyağı,557
+süt,fındık,976
+süt,galeta unu,641
+süt,granül kahve,478
+süt,hindistan cevizi,3112
+süt,incir,358
+süt,instant maya,2021
+süt,irmik,2113
+süt,kabartma tozu,13650
+süt,kakao,7027
+süt,kakaolu bisküvi,249
+süt,kakaolu petibör bisküvi,190
+süt,kakaolu puding,193
+süt,karbonat,798
+süt,kaşar,542
+süt,kaşar peynir,336
+süt,kivi,310
+süt,krem şanti,2901
+süt,krema,2681
+süt,kremşanti,569
+süt,labne,537
+süt,labne peyniri,563
+süt,limon kabuğu rendesi,719
+süt,margarin,2332
+süt,maya,2582
+süt,muz,2061
+süt,mısır nişastası,1148
+süt,nişasta,6605
+süt,pekmez,867
+süt,petibör bisküvi,726
+süt,peynir,794
+süt,pirinç unu,418
+süt,portakal kabuğu rendesi,458
+süt,portakal suyu,477
+süt,poşet krem şanti,452
+süt,pudra şekeri,2140
+süt,susam,1974
+süt,sütlü çikolata,689
+süt,sıvı krema,1041
+süt,tahin,578
+süt,tam buğday unu,419
+süt,tarçın,2260
+süt,tepeleme nişasta,410
+süt,tepeleme un,1033
+süt,teremyağ,820
+süt,toz antep fıstığı,257
+süt,toz krem şanti,505
+süt,tozşeker,515
+süt,vanilin,2953
+süt,vanilya,15107
+süt,yağ,513
+süt,yaş maya,2025
+süt,yoğurt,3268
+süt,yufka,1367
+süt,yulaf,177
+süt,yulaf ezmesi,234
+süt,yumurta akı,829
+süt,yumurta beyazı,420
+süt,yumurta sarısı,5939
+süt,yumurtanın sarısı,397
+süt,çikolata,2256
+süt,çikolata sosu,796
+süt,çikolatalı puding,135
+süt,çilek,1675
+süt,çimdik tuz,457
+süt,çörek otu,1004
+süt,üzüm,379
+süt,ıspanak,502
+süt,şekerli vanilin,433
+şeker,kaya tuzu,225
+şeker,sirke,2291
+şeker,alabildiği un,769
+şeker,antep fıstığı,628
+şeker,armut,142
+şeker,ayva,461
+şeker,ayçiçek yağı,713
+şeker,badem,364
+şeker,baklavalık yufka,422
+şeker,bal,498
+şeker,bal kabağı,236
+şeker,beyaz peynir,814
+şeker,beyaz çikolata,788
+şeker,bir tuz,373
+şeker,bisküvi,212
+şeker,bitter çikolata,2347
+şeker,burçak bisküvi,479
+şeker,buçuk su,280
+şeker,buçuk süt,374
+şeker,buçuk un,650
+şeker,buğday nişastası,890
+şeker,böğürtlen,187
+şeker,ceviz,3145
+şeker,ceviz içi,1395
+şeker,dövülmüş ceviz,634
+şeker,elma,1876
+şeker,elma sirkesi,328
+şeker,eritilmiş tereyağı,828
+şeker,esmer şeker,541
+şeker,file badem,282
+şeker,fiske tuz,437
+şeker,frambuaz,299
+şeker,fındık,1502
+şeker,fındık içi,263
+şeker,fıstık,215
+şeker,granül kahve,541
+şeker,gül suyu,155
+şeker,haşhaş,439
+şeker,hindistan cevizi,3678
+şeker,incir,505
+şeker,instant maya,2710
+şeker,irmik,4149
+şeker,kabartma tozu,21368
+şeker,kadayıf,377
+şeker,kakao,8229
+şeker,kakaolu bisküvi,236
+şeker,karanfil,850
+şeker,karbonat,1509
+şeker,kavrulmuş susam,345
+şeker,kaymak,396
+şeker,kayısı,513
+şeker,kilo süt,175
+şeker,kivi,316
+şeker,krem peynir,224
+şeker,krem şanti,2830
+şeker,krema,3692
+şeker,kremşanti,536
+şeker,kuş üzümü,324
+şeker,kırılmış ceviz,274
+şeker,labne,862
+şeker,labne peyniri,944
+şeker,limon kabuğu,337
+şeker,limon kabuğu rendesi,1381
+şeker,limon tuzu,598
+şeker,limonun kabuğu,288
+şeker,limonun suyu,909
+şeker,mahlep,613
+şeker,margarin,4283
+şeker,maya,3394
+şeker,mililitre krema,208
+şeker,mililitre süt,335
+şeker,muz,1587
+şeker,mısır nişastası,1676
+şeker,nar,229
+şeker,nişasta,8518
+şeker,pekmez,1215
+şeker,petibör bisküvi,608
+şeker,peynir,600
+şeker,pirinç unu,401
+şeker,portakal,607
+şeker,portakal kabuğu,237
+şeker,portakal kabuğu rendesi,843
+şeker,portakal suyu,912
+şeker,portakalın kabuğu,173
+şeker,poşet krem şanti,429
+şeker,pudra şekeri,4697
+şeker,sakızı,204
+şeker,susam,2580
+şeker,süt kreması,266
+şeker,sütlü çikolata,806
+şeker,sıvı krema,1365
+şeker,sıvı yağı,356
+şeker,sıvıyağ,435
+şeker,tahin,955
+şeker,tarçın,4606
+şeker,tel kadayıf,193
+şeker,tepeleme nişasta,469
+şeker,tepeleme un,971
+şeker,teremyağ,1221
+şeker,tereyağ margarin,342
+şeker,tereyağı margarin,639
+şeker,toz antep fıstığı,426
+şeker,toz krem şanti,542
+şeker,toz maya,375
+şeker,toz tarçın,278
+şeker,türk kahvesi,215
+şeker,vanilin,4590
+şeker,vanilya,20937
+şeker,vanilya şekeri,399
+şeker,vanilyalı puding,195
+şeker,vişne,519
+şeker,vişne suyu,272
+şeker,yaban mersini,169
+şeker,yaklaşık un,311
+şeker,yağ,493
+şeker,yaş maya,2343
+şeker,yoğurt,6691
+şeker,yulaflı bisküvi,425
+şeker,yumurta akı,1556
+şeker,yumurta beyazı,743
+şeker,yumurta sarısı,7086
+şeker,yumurtanın akı,210
+şeker,yumurtanın sarısı,460
+şeker,çikolata,2640
+şeker,çikolata sosu,701
+şeker,çilek,1822
+şeker,çimdik tuz,776
+şeker,çörek otu,1240
+şeker,üzüm,701
+şeker,şeftali,361
+şeker,şekerli vanilin,601
+dereotu,mayonez,722
+dereotu,kabartma tozu,823
+dereotu,yoğurt,1506
+dereotu,kornişon turşu,653
+dereotu,mısır,1053
+dereotu,süzme yoğurt,421
+dereotu,yeşil soğan,448
+mayonez,hardal,319
+mayonez,ketçap,294
+mayonez,kornişon turşu,620
+mayonez,mısır,833
+mayonez,süzme yoğurt,493
+mayonez,yoğurt,1640
+mısır,yoğurt,784
+mısır,kornişon turşu,932
+mısır,salatalık turşusu,281
+yoğurt,sirke,1592
+yoğurt,susam,1340
+yoğurt,kabartma tozu,7559
+yoğurt,pudra şekeri,1165
+yoğurt,vanilya,2719
+yoğurt,beyaz peynir,927
+yoğurt,ceviz,1052
+yoğurt,elma,739
+yoğurt,irmik,1300
+yoğurt,karbonat,1031
+yoğurt,margarin,1214
+yoğurt,peynir,546
+yoğurt,tarçın,1128
+yoğurt,ceviz içi,452
+yoğurt,yufka,924
+yoğurt,yumurta sarısı,2471
+yoğurt,çörek otu,884
+ayçiçek yağı,kabartma tozu,574
+beyaz peynir,kabartma tozu,896
+beyaz peynir,yumurta sarısı,776
+dolmalık fıstık,kuş üzümü,299
+krema,kabartma tozu,1454
+krema,bitter çikolata,825
+krema,kakao,870
+krema,nişasta,1136
+krema,pudra şekeri,727
+krema,vanilya,2211
+krema,yumurta sarısı,902
+kuş üzümü,tarçın,365
+mısır unu,kabartma tozu,481
+sirke,kabartma tozu,2240
+sirke,yumurta sarısı,991
+susam,kabartma tozu,1750
+susam,pekmez,570
+susam,yumurta sarısı,1932
+susam,çörek otu,1336
+yufka,yumurta sarısı,840
+yumurta sarısı,kabartma tozu,3000
+yumurta sarısı,pudra şekeri,1208
+yumurta sarısı,vanilya,2764
+yumurta sarısı,instant maya,857
+yumurta sarısı,kakao,941
+yumurta sarısı,margarin,897
+yumurta sarısı,maya,985
+yumurta sarısı,nişasta,1812
+yumurta sarısı,yaş maya,834
+yumurta sarısı,yumurta akı,1005
+yumurta sarısı,milföy,150
+yumurta sarısı,milföy hamuru,351
+yumurta sarısı,yumurta beyazı,536
+yumurta sarısı,çörek otu,1287
+irmik,kabartma tozu,2309
+irmik,vanilya,2354
+kabartma tozu,alabildiği un,575
+kabartma tozu,bal,591
+kabartma tozu,bitter çikolata,1303
+kabartma tozu,buçuk un,615
+kabartma tozu,ceviz,2047
+kabartma tozu,ceviz içi,900
+kabartma tozu,dövülmüş ceviz,422
+kabartma tozu,elma,1397
+kabartma tozu,eritilmiş tereyağı,390
+kabartma tozu,esmer şeker,501
+kabartma tozu,fiske tuz,327
+kabartma tozu,fındık,926
+kabartma tozu,hindistan cevizi,2187
+kabartma tozu,kakao,6858
+kabartma tozu,karbonat,1114
+kabartma tozu,krem şanti,1699
+kabartma tozu,limon kabuğu rendesi,1048
+kabartma tozu,mahlep,612
+kabartma tozu,margarin,3864
+kabartma tozu,muz,1112
+kabartma tozu,mısır nişastası,800
+kabartma tozu,nişasta,4496
+kabartma tozu,olgun muz,164
+kabartma tozu,pekmez,754
+kabartma tozu,portakal kabuğu rendesi,762
+kabartma tozu,portakal suyu,567
+kabartma tozu,pudra şekeri,6884
+kabartma tozu,sütlü çikolata,485
+kabartma tozu,sıvı krema,648
+kabartma tozu,sıvı yağı,289
+kabartma tozu,tahin,811
+kabartma tozu,tam buğday unu,559
+kabartma tozu,tarçın,3386
+kabartma tozu,tepeleme un,468
+kabartma tozu,teremyağ,865
+kabartma tozu,tereyağı margarin,515
+kabartma tozu,vanilin,3493
+kabartma tozu,vanilya,16479
+kabartma tozu,yulaf unu,168
+kabartma tozu,yumurta akı,1006
+kabartma tozu,yumurta beyazı,425
+kabartma tozu,çikolata,2486
+kabartma tozu,çilek,751
+kabartma tozu,çimdik tuz,524
+kabartma tozu,çörek otu,1101
+kabartma tozu,üzüm,604
+kabartma tozu,şekerli vanilin,437
+limon kabuğu rendesi,vanilya,918
+pudra şekeri,ceviz,767
+pudra şekeri,elma,876
+pudra şekeri,hindistan cevizi,914
+pudra şekeri,kakao,1932
+pudra şekeri,margarin,2272
+pudra şekeri,mısır nişastası,557
+pudra şekeri,nişasta,2164
+pudra şekeri,tarçın,1800
+pudra şekeri,teremyağ,491
+pudra şekeri,vanilin,1245
+pudra şekeri,vanilya,5460
+pudra şekeri,yumurta akı,535
+pudra şekeri,çikolata,876
+vanilya,antep fıstığı,295
+vanilya,bal,381
+vanilya,beyaz çikolata,469
+vanilya,bitter çikolata,1410
+vanilya,burçak bisküvi,348
+vanilya,buçuk un,477
+vanilya,buğday nişastası,670
+vanilya,ceviz,1648
+vanilya,ceviz içi,601
+vanilya,dövülmüş ceviz,366
+vanilya,elma,1045
+vanilya,fındık,1016
+vanilya,hindistan cevizi,2692
+vanilya,kakao,6282
+vanilya,karbonat,726
+vanilya,krem şanti,2000
+vanilya,labne,510
+vanilya,labne peyniri,551
+vanilya,margarin,3096
+vanilya,muz,1243
+vanilya,mısır nişastası,1133
+vanilya,nişasta,6520
+vanilya,portakal kabuğu rendesi,575
+vanilya,portakal suyu,527
+vanilya,sütlü çikolata,550
+vanilya,sıvı krema,915
+vanilya,tahin,455
+vanilya,tarçın,2615
+vanilya,tepeleme nişasta,343
+vanilya,tepeleme un,691
+vanilya,teremyağ,828
+vanilya,tereyağı margarin,518
+vanilya,tozşeker,404
+vanilya,çikolata,2248
+vanilya,çikolata sosu,557
+vanilya,çilek,1151
+vanilya,çimdik tuz,401
+vanilya,üzüm,429
+ceviz,tahin,462
+ceviz,tarçın,1309
+ceviz içi,tarçın,650
+zencefil,tarçın,304
+ayva,tarçın,297
+ayva,karanfil,329
+bal,kakao,439
+bal,tarçın,506
+bal,hindistan cevizi yağı,181
+bal,muz,376
+bal,yulaf ezmesi,232
+hindistan cevizi,kakao,1438
+hindistan cevizi,krem şanti,692
+hindistan cevizi,nişasta,1038
+kakao,bitter çikolata,1526
+kakao,hurma,272
+kakao,krem şanti,921
+kakao,margarin,1044
+kakao,muz,747
+kakao,nişasta,1873
+kakao,sütlü çikolata,502
+kakao,vanilin,1378
+kakao,çikolata,1508
+karanfil,tarçın,772
+krem şanti,nişasta,939
+margarin,nişasta,1320
+margarin,tarçın,757
+nişasta,muz,557
+nişasta,sıvı krema,505
+nişasta,vanilin,1203
+nişasta,çikolata,808
+nişasta,çilek,676
+tarçın,elma,1675
+tarçın,incir,330
+tarçın,kayısı,343
+tarçın,üzüm,540
+çilek,muz,574
+muz,çikolata,519
+üzüm,kayısı,416
+bitter çikolata,sütlü çikolata,522
+incir,kayısı,384

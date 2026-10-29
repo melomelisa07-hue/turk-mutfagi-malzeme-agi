@@ -1,0 +1,9 @@
+numpy
+pandas
+networkx
+matplotlib
+powerlaw
+python-igraph
+leidenalg
+scikit-learn
+datasets

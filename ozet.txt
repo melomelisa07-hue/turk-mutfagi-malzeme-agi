@@ -1,0 +1,14 @@
+HAM AĞ: düğüm 909, kenar 20495, yoğunluk 0.0497
+HAM AĞ topluluk: 2 (Louvain, ağırlıklı modülerlik 0.251)
+OMURGA (alfa<0.05): düğüm 368, kenar 1929, yoğunluk 0.0286, bileşen 1, en büyük bileşen 368
+OMURGA topluluk: 2 (modülerlik 0.267)
+NULL MODEL gözlenen: {'kumelenme': 0.9018, 'gecislilik': 0.2219, 'ort_yol': 1.9769, 'moduler': 0.2601}
+NULL MODEL rastgele ortalama: {'kumelenme': 0.8587, 'gecislilik': 0.2152, 'ort_yol': 1.9602, 'moduler': 0.1448}
+NULL MODEL z-skorları: {'kumelenme': 32.07, 'gecislilik': 12.86, 'ort_yol': 15.59, 'moduler': 22.79}
+
+Ham topluluk 0 (458): tuz, soğan, karabiber, sarımsak, zeytinyağı, salça, maydanoz, domates, patates, pul biber, havuç, kekik, nane, kimyon, limon, kıyma, biber salçası, kaşar peyniri, yeşil biber, dereotu, pirinç, kırmızı biber, patlıcan, kapya biber, kırmızı toz biber
+Ham topluluk 1 (451): yumurta, şeker, un, sıvı yağ, su, süt, tereyağı, kabartma tozu, vanilya, yoğurt, yumurta sarısı, kakao, pudra şekeri, nişasta, limon suyu, tarçın, margarin, krema, ceviz, vanilin, irmik, hindistan cevizi, sirke, susam, çikolata
+Omurga topluluğu 0 (208): tuz, soğan, karabiber, sarımsak, zeytinyağı, salça, maydanoz, domates, patates, pul biber, havuç, kekik, nane, kimyon, limon, kıyma, biber salçası, kaşar peyniri, yeşil biber, dereotu, pirinç, kırmızı biber, patlıcan, kapya biber, kırmızı toz biber
+Omurga topluluğu 1 (160): yumurta, şeker, un, sıvı yağ, su, süt, tereyağı, kabartma tozu, vanilya, yoğurt, yumurta sarısı, kakao, pudra şekeri, nişasta, limon suyu, tarçın, margarin, krema, ceviz, vanilin, irmik, hindistan cevizi, sirke, susam, çikolata
+Omurga betweenness ilk 10: tuz (0.840), şeker (0.367), yumurta (0.127), süt (0.078), un (0.046), sıvı yağ (0.033), soğan (0.027), yumurta sarısı (0.011), sarımsak (0.011), zeytinyağı (0.005)
+Ham betweenness ilk 10: tuz (0.112), su (0.095), yumurta (0.091), sıvı yağ (0.076), un (0.064), süt (0.058), tereyağı (0.047), şeker (0.047), zeytinyağı (0.043), karabiber (0.042)
